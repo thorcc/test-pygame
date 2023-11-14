@@ -8,3 +8,5 @@ Todo:
 - [ ] Klasser
 - [ ] Bevegelse
 - [ ] Miste liv/dø
+
+Litt mer kode
