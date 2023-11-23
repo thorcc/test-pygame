@@ -7,7 +7,7 @@ class Main():
     def __init__(self):
         # Konstanter
         self.BREDDE = 600
-        self.HOYDE = 400
+        self.HOYDE = 500
         self.FPS = 60
 
         # Oppsett

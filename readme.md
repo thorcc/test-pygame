@@ -8,5 +8,6 @@ Todo:
 - [ ] Klasser
 - [ ] Bevegelse
 - [ ] Miste liv/dø
+- blablabla
 
 Litt mer kode
